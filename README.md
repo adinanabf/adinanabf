@@ -9,10 +9,8 @@ I am a Developer and an Undergraduate Researcher from São Paulo/Brazil.
 
 ## Languages and Tools:
 
-[![website](./img/WatsonAssistant-light.svg)](https://www.ibm.com/products/watson-assistant#gh-light-mode-only)
-[![website](./img/WatsonAssistant-dark.svg)](https://www.ibm.com/products/watson-assistant#gh-dark-mode-only)
 [<img src='https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667' height='50'>](https://www.python.org/) 
-[<img src='https://cache.globalcatalog.cloud.ibm.com/api/v1/7045626d-55e3-4418-be11-683a26dbc1e5/artifacts/cache/5c18a362b3f855bff471377ff580f369-public/WatsonAssistant.svg#gh-dark-mode-only' height='50'>](https://www.python.org/) 
+[<img src='./img/WatsonAssistant-light.svg' height='50'>](https://www.python.org/) 
 [<img src='https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667' height='50'>](https://en.wikipedia.org/wiki/HTML5) 
 [<img src='https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667' height='50'>](https://code.visualstudio.com/) 
 <br><br>
