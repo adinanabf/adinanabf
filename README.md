@@ -6,13 +6,24 @@ I am a Developer and an Undergraduate Researcher from São Paulo/Brazil.
 📚 I am studying Information Engineering (BSc.) at UFABC, one of the best universities in Latin America <br>
 🔭 I love to research! You can see my conference papers at my [ResearchGate page](https://www.researchgate.net/profile/Adinan-Brito-Filho/research) <br>
 🌱 I’m currently learning Machine Learning and Data Science <br>
+⚡ Fun fact: I produce and edit multimidia content (image, music and video) in my free time
 
 ## Languages and Tools:
 
 [<img src='https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667' height='50'>](https://www.python.org/) 
-[<img src='./img/WatsonAssistant-light.svg' height='50'>](https://www.python.org/) 
-[<img src='https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667' height='50'>](https://en.wikipedia.org/wiki/HTML5) 
-[<img src='https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667' height='50'>](https://code.visualstudio.com/) 
+[<img src='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg' height='50'>](https://flask.palletsprojects.com/en/2.2.x/)
+[<img src='./img/WatsonAssistant-light.svg' height='50'>](https://www.ibm.com/products/watson-assistant) 
+[<img src='https://www.svgrepo.com/download/349342/docker.svg' height='50'>](https://www.docker.com/)
+[<img src='./img/CodeEngine.svg' height='50'>](https://www.ibm.com/cloud/code-engine) 
+[<img src='./img/Cloudant.svg' height='50'>](https://www.ibm.com/cloud/cloudant) 
+[<img src='https://www.vectorlogo.zone/logos/twilio/twilio-tile.svg' height='50'>](https://www.twilio.com/docs/libraries/python)
+[<img src='https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667' height='50'>](https://en.wikipedia.org/wiki/HTML5)
+[<img src='https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667' height='50'>](https://github.com) 
+[<img src='https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667' height='50'>](https://code.visualstudio.com/)
+[<img src='https://www.adobe.com/content/dam/cc/icons/photoshop.svg' height='50'>](https://www.adobe.com/br/products/photoshop.html)
+[<img src='https://www.adobe.com/content/dam/cc/icons/illustrator.svg' height='50'>]([https://www.adobe.com/products/illustrator.html)
+[<img src='https://www.adobe.com/content/dam/cc/icons/premiere.svg' height='50'>](https://www.adobe.com/br/products/premiere.html)
+[<img src='https://www.adobe.com/content/dam/cc/icons/aftereffects.svg' height='50'>](https://www.adobe.com/products/aftereffects.html)
 <br><br>
 
 
