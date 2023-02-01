@@ -1,6 +1,6 @@
 # Hey there, I'm Adinan Brito 👋
 
-I am a Developer and an Undergraduate Researcher from São Paulo/Brazil.
+I am a Developer and Undergraduate Researcher from São Paulo/Brazil.
 
 💻 I work as a Software Engineer Intern at IBM Research <br>
 📚 I am studying Information Engineering (BSc.) at UFABC, one of the best universities in Latin America <br>
