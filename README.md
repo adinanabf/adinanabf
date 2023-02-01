@@ -10,10 +10,11 @@ I am a Developer and Undergraduate Researcher from São Paulo/Brazil.
 
 ## Languages and Tools:
 
-[<img src='https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667' height='50'>](https://www.python.org/) 
-[<img src='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg' height='50'>](https://flask.palletsprojects.com/en/2.2.x/)
-[<img src='./img/WatsonAssistant-light.svg' height='50'>](https://www.ibm.com/products/watson-assistant) 
+[<img src='https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667' height='50'>](https://www.python.org/)
+[<img src='https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png' height='50'>](https://flask.palletsprojects.com/en/2.2.x/)
 [<img src='https://www.svgrepo.com/download/349342/docker.svg' height='50'>](https://www.docker.com/)
+[<img src='https://icons-for-free.com/iconfiles/svg/0/MongoDB-1329545826074381322.svg' height='50'>](https://www.mongodb.com/)
+[<img src='./img/WatsonAssistant-light.svg' height='50'>](https://www.ibm.com/products/watson-assistant) 
 [<img src='./img/CodeEngine.svg' height='50'>](https://www.ibm.com/cloud/code-engine) 
 [<img src='./img/Cloudant.svg' height='50'>](https://www.ibm.com/cloud/cloudant) 
 [<img src='https://www.vectorlogo.zone/logos/twilio/twilio-tile.svg' height='50'>](https://www.twilio.com/docs/libraries/python)
