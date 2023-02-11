@@ -2,11 +2,13 @@
 
 I am a Developer and Undergraduate Researcher from São Paulo/Brazil.
 
-💻 I work as a Software Engineer Intern at IBM Research <br>
+💻 I work as a Software Engineer Intern at IBM Research. [Click here](https://github.com/IBM/customized-voice-text-bot-for-whatsapp-telegram) to know more about my work at IBM <br>
 📚 I am studying Information Engineering (BSc.) at UFABC, one of the best universities in Latin America <br>
 🔭 I love to research! You can see my conference papers at my [ResearchGate page](https://www.researchgate.net/profile/Adinan-Brito-Filho/research) <br>
 🌱 I’m currently learning Machine Learning and Data Science <br>
 ⚡ Fun fact: I produce and edit multimidia content (image, music and video) in my free time
+
+📄 [**Check my resume (CV) in portuguese**](https://github.com/adinanabf/adinanabf/blob/main/Adinan_Filho_CV_portuguese.pdf)
 
 ## Languages and Tools:
 
