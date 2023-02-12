@@ -8,7 +8,8 @@ I am a Developer and Undergraduate Researcher from São Paulo/Brazil.
 🌱 I’m currently learning Machine Learning and Data Science <br>
 ⚡ Fun fact: I produce and edit multimidia content (image, music and video) in my free time
 
-📄 [**Check my resume (CV) in portuguese**](https://github.com/adinanabf/adinanabf/blob/main/Adinan_Filho_CV_portuguese.pdf)
+📄 [**Check my resume**](https://github.com/adinanabf/adinanabf/blob/main/Adinan_Filho_english.pdf) <br>
+📄 [**Acesse o meu currículo**](https://github.com/adinanabf/adinanabf/blob/main/Adinan_Filho_CV_portuguese.pdf)
 
 ## Languages and Tools:
 
