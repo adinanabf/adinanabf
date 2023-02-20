@@ -3,12 +3,12 @@
 I am a Developer and Undergraduate Researcher from São Paulo/Brazil.
 
 💻 I work as a Software Engineer Intern at IBM Research. [Click here](https://github.com/IBM/customized-voice-text-bot-for-whatsapp-telegram) to know more about my work at IBM <br>
-📚 I am studying Information Engineering (BSc.) at UFABC, one of the best universities in Latin America <br>
-🔭 I love to research! You can see my conference papers at my [ResearchGate page](https://www.researchgate.net/profile/Adinan-Brito-Filho/research) <br>
+📚 I am studying Information Engineering (B.S.) at UFABC, one of the best universities in Latin America <br>
+🔭 I love to research! You can view my conference papers at my [Google Scholar page](https://scholar.google.com.br/citations?hl=pt-BR&user=Edvqr8cAAAAJ) <br>
 🌱 I’m currently learning Machine Learning and Data Science <br>
 ⚡ Fun fact: I produce and edit multimidia content (image, music and video) in my free time
 
-📄 [**Check my resume**](https://github.com/adinanabf/adinanabf/blob/main/Adinan_resume.pdf) <br>
+📄 [**Access my resume**](https://github.com/adinanabf/adinanabf/blob/main/Adinan_Filho_english_CV.pdf) <br>
 📄 [**Acesse o meu currículo**](https://github.com/adinanabf/adinanabf/blob/main/Adinan_Filho_CV_portuguese.pdf)
 
 ## Languages and Tools:
