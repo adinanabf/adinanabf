@@ -23,7 +23,6 @@ I am a Developer and Undergraduate Researcher from São Paulo/Brazil.
 [<img src='./img/Cloudant.svg' height='50'>](https://www.ibm.com/cloud/cloudant) 
 [<img src='https://www.vectorlogo.zone/logos/twilio/twilio-tile.svg' height='50'>](https://www.twilio.com/docs/libraries/python)
 [<img src='https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667' height='50'>](https://en.wikipedia.org/wiki/HTML5)
-[<img src='https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667' height='50'>](https://github.com) 
 [<img src='https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667' height='50'>](https://code.visualstudio.com/)
 [<img src='https://www.adobe.com/content/dam/cc/icons/photoshop.svg' height='50'>](https://www.adobe.com/br/products/photoshop.html)
 [<img src='https://www.adobe.com/content/dam/cc/icons/illustrator.svg' height='50'>]([https://www.adobe.com/products/illustrator.html)
