@@ -1,6 +1,6 @@
 # Hey there, I'm Adinan Brito 👋
 
-I am a Developer and Undergraduate Researcher from São Paulo/Brazil.
+I am a Software Engineer and Undergraduate Researcher from São Paulo/Brazil.
 
 💻 I work as a Software Engineer Intern at IBM Research. [Click here](https://github.com/IBM/customized-voice-text-bot-for-whatsapp-telegram) to know more about my work at IBM <br>
 📚 I am studying Information Engineering (B.S.) at UFABC, one of the best universities in Latin America <br>
