@@ -8,8 +8,8 @@ I am a Software Engineer and Undergraduate Researcher from São Paulo/Brazil.
 🌱 I’m currently learning Machine Learning and Data Science <br>
 ⚡ Fun fact: I produce and edit multimidia content (image, music and video) in my free time
 
-📄 [**Access my resume**](https://github.com/adinanabf/adinanabf/blob/main/Adinan_Filho_CV_english.pdf) <br>
-📄 [**Acesse o meu currículo**](https://github.com/adinanabf/adinanabf/blob/main/Adinan_Filho_CV_ptbr.pdf)
+📄 [**Access my resume**](https://github.com/adinanabf/adinanabf/blob/main/AdinanFilho_CV_english.pdf) <br>
+📄 [**Acesse o meu currículo**](https://github.com/adinanabf/adinanabf/blob/main/AdinanFilho_CV_ptbr.pdf)
 
 ## Languages and Tools:
 
