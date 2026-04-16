@@ -3,9 +3,8 @@
 I am a Software Engineer and Undergraduate Researcher from São Paulo/Brazil.
 
 💻 I work as a Software Developer at IBM. [Click here](https://github.com/IBM/customized-voice-text-bot-for-whatsapp-telegram) to know more about my work at IBM <br>
-📚 I am an Information Engineering B.Sc. student at UFABC, one of the best universities in Latin America <br>
+📚 I am an Information Engineer from UFABC, one of the best universities in Latin America <br>
 🔭 I love to research! You can view my conference papers at my [Google Scholar page](https://scholar.google.com.br/citations?hl=pt-BR&user=Edvqr8cAAAAJ) <br>
-📷 I’m currently working on a Machine Learning project at UFABC to restore the quality of compressed images, as a final paper. <br>
 ⚡ Fun fact: I produce and edit multimidia content (image, music and video) in my free time
 
 📄 [**Access my resume**](https://personal-bucket.s3.br-sao.cloud-object-storage.appdomain.cloud/AdinanFilho_CV_english.pdf) <br>
