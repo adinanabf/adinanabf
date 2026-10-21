@@ -11,7 +11,7 @@ I build production AI agents and the backend systems behind them, and I own them
 
 ## Highlights
 
-- ⚡ Rebuilt a 25+ year-old pricing engine for IBM mainframe software (IBM zPricer) in Node.js: **5.5× faster** inventory downloads and **26× faster** report exports.
+- ⚡ Rebuilt a 25+ year-old inventory/report engine for IBM mainframe software configurator (IBM zPricer) in Node.js: **5.5× faster** inventory downloads and **26× faster** report exports.
 - 🏆 **IBM Culture Catalyst Award (2025)** and [IBM Recognized Speaker](https://www.credly.com/badges/a2ef663e-9ed0-4e61-b648-e8c45f60d3bf/).
 - 🎓 Two B.Sc. degrees from [UFABC](https://www.ufabc.edu.br/): Information Engineering and Science & Technology.
 
