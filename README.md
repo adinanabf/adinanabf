@@ -8,11 +8,6 @@ I build production AI agents and the backend systems behind them, and I own them
 [![Email](https://img.shields.io/badge/Email-adinanbrito%40live.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adinanbrito@live.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com.br/citations?hl=pt-BR&user=Edvqr8cAAAAJ)
 
-## What I'm working on
-
-- 🤖 **Major Incident Management Agent** (IBM CIO IT Operations): a Python agent that correlates ServiceNow, Slack and service-health signals. Since rollout it has flagged **100% of registered major incidents before they were formally declared**.
-- 🧩 **MCP servers, agent skills and orchestration patterns** that other IBM teams reuse to ship their own agents.
-- 🔄 **Near real-time ETL pipelines** feeding operational decision-making.
 
 ## Highlights
 
